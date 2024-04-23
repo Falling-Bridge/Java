@@ -1,4 +1,7 @@
+
 import java.util.ArrayList;
+
+import Bebida;
 
 abstract class Moneda {
 
@@ -242,12 +245,9 @@ public class Problema110 {
 
         m = new Moneda1500();
         c = new Comprador(m,1,exp);
-
         System.out.println(c.queBebiste() + ", " + c.cuantoVuelto());
-
         m = new Moneda1500();
         c = new Comprador(m,1,exp);
-
         System.out.println(c.queBebiste() + ", " + c.cuantoVuelto());
     }
 }
