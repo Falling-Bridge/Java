@@ -107,6 +107,8 @@ class Deposito {
     }
 }
 
+class DepositoD{}
+
 class DepositoM {
 
     private ArrayList<Moneda> lista2;
@@ -234,6 +236,18 @@ class CocaCola extends Bebida {
 
 public class Problema110 {
     public static void main(String[] args) {
+        Expendedor exp = new Expendedor(1,1000);
+        Moneda m = null;
+        Comprador c=null;
 
+        m = new Moneda1500();
+        c = new Comprador(m,1,exp);
+
+        System.out.println(c.queBebiste() + ", " + c.cuantoVuelto());
+
+        m = new Moneda1500();
+        c = new Comprador(m,1,exp);
+
+        System.out.println(c.queBebiste() + ", " + c.cuantoVuelto());
     }
 }
