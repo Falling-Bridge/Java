@@ -8,7 +8,6 @@ abstract class Moneda {
     public abstract int getValor();
 
     public Moneda() {
-        // Constructor logic (if any)
     }
 }
 
