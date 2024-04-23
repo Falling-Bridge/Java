@@ -1,4 +1,4 @@
-package Tarea-desarrollo*;
+package Tarea-desarrollo;
 
 class CocaCola extends Bebida {
     public CocaCola(int ac) {
