@@ -1,4 +1,4 @@
-package Tarea-desarrollo;
+package Java.Tareadesarrollo;
 
 abstract class Bebida {
     private int serie;

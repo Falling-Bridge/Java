@@ -1,4 +1,4 @@
-package Tarea-desarrollo;
+package Java.Tareadesarrollo;
 
 class Moneda1000 extends Moneda {
 
