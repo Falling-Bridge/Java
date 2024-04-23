@@ -3,7 +3,7 @@ package Java.Tareadesarrollo;
 abstract class Bebida {
     private int serie;
 
-    public int getSerie() {
+    public int getSerie() { 
         return serie;
     }
 
