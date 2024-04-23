@@ -1,13 +1,5 @@
 package Java.Tareadesarrollo;
 
-import Bebida;
-import CocaCola;
-import Deposito;
-import DepositoM;
-import Moneda;
-import Moneda100;
-import Sprite;
-
 class Expendedor {
     private Deposito coca;
     private Deposito sprite;

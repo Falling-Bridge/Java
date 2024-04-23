@@ -1,7 +1,4 @@
 package Java.Tareadesarrollo;
-import Bebida;
-import Expendedor;
-import Moneda;
 
 class Comprador {
     private String sonido;

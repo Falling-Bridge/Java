@@ -1,7 +1,5 @@
 package Java.Tareadesarrollo;
 
-import Moneda;
-
 class DepositoM {
 
     private ArrayList<Moneda> lista2;

@@ -1,7 +1,5 @@
 package Java.Tareadesarrollo;
 
-import Moneda;
-
 class Moneda500 extends Moneda {
 
     public int getValor() {

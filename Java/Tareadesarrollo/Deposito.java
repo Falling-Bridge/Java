@@ -1,7 +1,5 @@
 package Java.Tareadesarrollo;
 
-import Bebida;
-
 class Deposito {
 
     private ArrayList<Bebida> lista1;

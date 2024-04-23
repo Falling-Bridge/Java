@@ -1,7 +1,5 @@
 package Java.Tareadesarrollo;
 
-import Moneda;
-
 public class Moneda100 extends Moneda {
 
     public int getValor() {
@@ -11,7 +9,4 @@ public class Moneda100 extends Moneda {
     public Moneda100() {
         super();
     }
-}
- {
-    
 }
